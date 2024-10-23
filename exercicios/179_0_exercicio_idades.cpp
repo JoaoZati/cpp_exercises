@@ -22,7 +22,7 @@ int main() {
     cout << "Idade: ";
     cin >> idade2;
 
-    media = (double) (idade1 + idade2)/2;
+    media = (double) (idade1 + idade2) / 2;
 
     cout << fixed << setprecision(1);
     cout 
